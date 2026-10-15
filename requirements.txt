@@ -1,3 +1,5 @@
-python-telegram-bot==20.7
-yfinance==0.2.31
+pyTelegramBotAPI
+Flask
+yfinance
+ta
 pandas
